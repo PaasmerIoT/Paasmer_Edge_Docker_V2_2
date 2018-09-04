@@ -178,12 +178,10 @@ test.loop_start()
 The Publish functions need the following as parameters,
 ```
     test.publish("feed2",feedValue = 9,feedType = "sensor")
-
 ```
 - Feedname
 - Feedvalue
 - Feedtype (The Feedtype is to be sensor or actuator)
-```
 
 You can use the Analytics in the following way,
 - Filter - provide the analytics condition like "function(x) x < 5.0"
@@ -201,6 +199,7 @@ With BLE
 * Magicblue bulbs
 
 The syntax for Publishing Analytics are,
+
 ```
 #publishing the feed details with filter analytics 
     test.publish("feed4",feedValue = 5,analytics = "filter",analyticsCondition="function(x) x > 3.0")
