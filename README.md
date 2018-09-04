@@ -1,5 +1,5 @@
 # Paasmer Edge 2.2
-**Paasmer Edge Docker 2.2** for SBC Running any Linux flavoured OS
+**Paasmer Edge Docker 2.2** for SBC Running any Linux flavoured OS.
 
 ## Overview
 
