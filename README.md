@@ -62,7 +62,7 @@ This script will install the required packages, Paasmer containers(Paasmer Featu
 * Wohooo! That's all. You device is now expected to be connected with Paasmer platform and you can manage the Device from Paasmer WEBUI
 
 #### Machine Learning Cloud Initialization
-*     After successfully activating the license, You can find `Machine Learning` tab on the Device page in Web UI. 
+* After successfully activating the license, You can find `Machine Learning` tab on the Device page in Web UI. 
 
 * Click on `Create` button, Enter a unique Model name for your model and that must be alphanumeric without any spaces[a-z A-Z 0-9].
 * Then Upload the sample dataset (any .csv format file) and click on `upload` button. 
